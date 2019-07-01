@@ -1,0 +1,5 @@
+Credentials cache: API:EFD948ED-2771-4BC1-8DED-16F72A85D32B
+        Principal: aromero-@42.FR
+
+  Issued                Expires               Principal
+Jul  1 19:38:53 2019  Jul  8 19:38:45 2019  krbtgt/42.FR@42.FR
